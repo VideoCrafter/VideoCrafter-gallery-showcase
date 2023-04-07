@@ -50,10 +50,10 @@
   <td style="text-align:center;" width="170">"an elephant is walking under the sea, 4K, high definition"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
   <tr>
-  <td><img src=assets/frozen/frozen/a_man_is_drinking_coffee_frozen_sytle.gif width="170"></td>
-  <td><img src=assets/frozen/frozen/astronaut_riding_a_horse_in_the_river_frozen_style.gif width="170"></td>
-  <td><img src=assets/frozen/frozen/an_elephant_is_walking_under_the_sea_4K_high_definition_frozen_style.gif width="170"></td>
-  <td><img src=assets/frozen/frozen/xx.gif width="170"></td>
+  <td><img src=assets/lora/frozen/a_man_is_drinking_coffee_frozen_sytle.gif width="170"></td>
+  <td><img src=assets/lora/frozen/astronaut_riding_a_horse_in_the_river_frozen_style.gif width="170"></td>
+  <td><img src=assets/lora/frozen/an_elephant_is_walking_under_the_sea_4K_high_definition_frozen_style.gif width="170"></td>
+  <td><img src=assets/lora/frozen/xx.gif width="170"></td>
 </table >
 
 ### Coco style
