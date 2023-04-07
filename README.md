@@ -24,7 +24,7 @@
   <td style="text-align:center;" width="170">"prompt"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
   <tr>
-  <td><img src=assets/lora/vincent/an_astronaut_riding_a_horse_in_the_river_Loving_Vincent_style_000.mpt width="170"></td>
+  <td><img src=assets/lora/vincent/an_astronaut_riding_a_horse_in_the_river_Loving_Vincent_style_000.mp4 width="170"></td>
   <td><img src=assets/lora/vincent/xx.gif width="170"></td>
   <td><img src=assets/lora/vincent/xx.gif width="170"></td>
   <td><img src=assets/lora/vincent/xx.gif width="170"></td>
