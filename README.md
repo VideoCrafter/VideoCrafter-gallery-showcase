@@ -40,7 +40,7 @@
   <td><img src=assets/lora/yourname/a_horse_is_drinking_in_the_river_MakotoShinkaiYourName_style_000.gif width="170"></td>
   <td><img src=assets/lora/yourname/a_horse_running_MakotoShinkaiYourName_style_000745c0bd67dddd1c2dc73dc9464c6d99724f28000.gif width="170"></td>
   <td><img src=assets/lora/yourname/an_astronaut_riding_a_horse_in_outer_space_MakotoShinkaiYourName_style_000.gif width="170"></td>
-  <td><img src=assets/lora/yourname/one_horse_standing_on_top_of_a_mountain_MakotoShinkaiYourName_style_000 (1).gif width="170"></td>
+  <td><img src=assets/lora/yourname/one_horse_standing_on_top_of_a_mountain_MakotoShinkaiYourName_style_000_2.gif width="170"></td>
 </table >
 
 ### Frozenmovie style 
