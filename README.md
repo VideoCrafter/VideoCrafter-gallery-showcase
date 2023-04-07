@@ -5,12 +5,12 @@
 ## Base T2V  
 
 <table class="center">
-  <td style="text-align:center;" width="170">"prompt"</td>
+  <td style="text-align:center;" width="170">"an elephant is walking under the sea, 4K, high definition"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
   <tr>
-  <td><img src=assets/base/xx.gif width="170"></td>
+  <td><img src=assets/base/an_elephant_is_walking_under_the_sea_4K_high_definition_base_t2v.gif width="170"></td>
   <td><img src=assets/base/xx.gif width="170"></td>
   <td><img src=assets/base/xx.gif width="170"></td>
   <td><img src=assets/base/xx.gif width="170"></td>
@@ -21,13 +21,13 @@
 <table class="center">
   <td style="text-align:center;" width="170">"an astronaut riding a horse in the river"</td>
   <td style="text-align:center;" width="170">"one cute dog eating"</td>
-  <td style="text-align:center;" width="170">"prompt"</td>
-  <td style="text-align:center;" width="170">"prompt"</td>
+  <td style="text-align:center;" width="170">"an elephant is walking under the sea, 4K, high definition"</td>
+  <td style="text-align:center;" width="170">"a cute dog eating"</td>
   <tr>
   <td><img src=assets/lora/vincent/an_astronaut_riding_a_horse_in_the_river_Loving_Vincent_style_000.gif width="170"></td>
   <td><img src=assets/lora/vincent/one_cute_dog_eating__Loving_Vincent_style_0008879b03b1153aa089e080027dcc51c11a8f64375.gif width="170"></td>
-  <td><img src=assets/lora/vincent/xx.gif width="170"></td>
-  <td><img src=assets/lora/vincent/xx.gif width="170"></td>
+  <td><img src=assets/lora/vincent/an_elephant_is_walking_under_the_sea_4K_high_definition_loving_vincent_style.gif width="170"></td>
+  <td><img src=assets/lora/vincent/a_cute_dog_eating_loving_vincent_style.gif width="170"></td>
 </table >
 
 ### MakotoShinkaiYourName style
@@ -45,25 +45,25 @@
 
 ### Frozenmovie style 
 <table class="center">
-  <td style="text-align:center;" width="170">"prompt"</td>
-  <td style="text-align:center;" width="170">"prompt"</td>
-  <td style="text-align:center;" width="170">"prompt"</td>
+  <td style="text-align:center;" width="170">"a man is drinking coffee"</td>
+  <td style="text-align:center;" width="170">"an astronaut riding a horse in the river"</td>
+  <td style="text-align:center;" width="170">"an elephant is walking under the sea, 4K, high definition"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
   <tr>
-  <td><img src=assets/frozen/frozen/xx.gif width="170"></td>
-  <td><img src=assets/frozen/frozen/xx.gif width="170"></td>
-  <td><img src=assets/frozen/frozen/xx.gif width="170"></td>
+  <td><img src=assets/frozen/frozen/a_man_is_drinking_coffee_frozen_sytle.gif width="170"></td>
+  <td><img src=assets/frozen/frozen/astronaut_riding_a_horse_in_the_river_frozen_style.gif width="170"></td>
+  <td><img src=assets/frozen/frozen/an_elephant_is_walking_under_the_sea_4K_high_definition_frozen_style.gif width="170"></td>
   <td><img src=assets/frozen/frozen/xx.gif width="170"></td>
 </table >
 
 ### Coco style
 <table class="center">
-  <td style="text-align:center;" width="170">"prompt"</td>
+  <td style="text-align:center;" width="170">"an elephant is walking under the sea, 4K, high definition"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
   <tr>
-  <td><img src=assets/lora/coco/xx.gif width="170"></td>
+  <td><img src=assets/lora/coco/an_elephant_is_walking_under_the_sea_4K_high_definition_coco_style.gif width="170"></td>
   <td><img src=assets/lora/coco/xx.gif width="170"></td>
   <td><img src=assets/lora/coco/xx.gif width="170"></td>
   <td><img src=assets/lora/coco/xx.gif width="170"></td>
