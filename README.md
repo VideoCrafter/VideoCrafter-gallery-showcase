@@ -78,12 +78,12 @@
   <td style="text-align:center;" width="170">"a bear playing gitar"</td>
   <td style="text-align:center;" width="170">"a monkey rides a bicycle"</td>
   <td style="text-align:center;" width="170">"a bear looking at the big moon"</td>
-  <td style="text-align:center;" width="170">"prompt"</td>
+  <td style="text-align:center;" width="170">"Corgi is swimming"</td>
 <tr>
   <td><img src=assets/lora/frozen/A_bear_playing_gitar_frozenmovie_style_00101a8912d82929fb3cb4be06f285c048e59e3b681.gif width="170"></td>
   <td><img src=assets/lora/frozen/A_monkey_rides_a_bicycle_frozenmovie_style_001c0baa63f9eb310a5c5e7aa827a055b567b68fe78.gif width="170"></td>
   <td><img src=assets/lora/frozen/a_bear_looking_at_the_big_moon__frozenmovie_style_0014cef4eaf7f2e32651ed63cd3d720de7019c7d714.gif width="170"></td>
-  <td><img src=assets/lora/frozen/xx.gif width="170"></td>
+  <td><img src=assets/lora/frozen/Corgi_is_swimming_frozenmovie_style_0005a454b579a4d994d8db3ccf3f59e12f3917dff65.gif width="170"></td>
 </table >
 
 ### Coco style
