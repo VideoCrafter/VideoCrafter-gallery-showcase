@@ -8,12 +8,12 @@
   <td style="text-align:center;" width="170">"an elephant is walking under the sea, 4K, high definition"</td>
   <td style="text-align:center;" width="170">"a camel walking under the sea"</td>
   <td style="text-align:center;" width="170">"a man is looking at the starry sky"</td>
-  <td style="text-align:center;" width="170">"prompt"</td>
+  <td style="text-align:center;" width="170">"a tiger walking in time square"</td>
   <tr>
   <td><img src=assets/base/an_elephant_is_walking_under_the_sea_4K_high_definition_base_t2v.gif width="170"></td>
   <td><img src=assets/base/a_camel_walking_under_the_sea_000184b41510b2c7bed0f5ad19165bf73b338b2babe.gif width="170"></td>
   <td><img src=assets/base/a_man_is_looking_at_the_starry_sky_000.gif width="170"></td>
-  <td><img src=assets/base/xx.gif width="170"></td>
+  <td><img src=assets/base/a_tiger_walking_in_time_square__00154997f33914ef2d1894953e95051b499ec2034bc.gif width="170"></td>
 </table >
 
 ## VideoLoRA   
@@ -75,12 +75,12 @@
   <td><img src=assets/lora/frozen/an_elephant_is_walking_under_the_sea_4K_high_definition_frozen_style.gif width="170"></td>
   <td><img src=assets/lora/frozen/A_panda_on_a_raft_in_the_river__frozenmovie_style_00039bdc8c6bd38a8a72c3050a23558cfe2aef08581.gif width="170"></td>
 <tr>
-  <td style="text-align:center;" width="170">"prompt"</td>
+  <td style="text-align:center;" width="170">"a bear playing gitar"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
 <tr>
-  <td><img src=assets/lora/frozen/xx.gif width="170"></td>
+  <td><img src=assets/lora/frozen/A_bear_playing_gitar_frozenmovie_style_00101a8912d82929fb3cb4be06f285c048e59e3b681.gif width="170"></td>
   <td><img src=assets/lora/frozen/xx.gif width="170"></td>
   <td><img src=assets/lora/frozen/xx.gif width="170"></td>
   <td><img src=assets/lora/frozen/xx.gif width="170"></td>
@@ -90,25 +90,25 @@
 <table class="center">
   <td style="text-align:center;" width="170">"an elephant is walking under the sea, 4K, high definition"</td>
   <td style="text-align:center;" width="170">"a young boy standing in the rain"</td>
-  <td style="text-align:center;" width="170">"prompt"</td>
-  <td style="text-align:center;" width="170">"prompt"</td>
+  <td style="text-align:center;" width="170">"a bear playing gitar"</td>
+  <td style="text-align:center;" width="170">"a tiger drinking in the river"</td>
   <tr>
   <td><img src=assets/lora/coco/an_elephant_is_walking_under_the_sea_4K_high_definition_coco_style.gif width="170"></td>
   <td><img src=assets/lora/coco/a_young_boy_standing_in_the_rain_coco_style_000b2d9f288e2a2ee76bb08acaac2a75771862bc4ba.gif width="170"></td>
-  <td><img src=assets/lora/coco/xx.gif width="170"></td>
-  <td><img src=assets/lora/coco/xx.gif width="170"></td>
+  <td><img src=assets/lora/coco/A_bear_playing_gitar_coco_style_0012da67b3bfc13920a293c8faedcf1f38db1f6c4d5.gif width="170"></td>
+  <td><img src=assets/lora/coco/a_tiger_drinking_in_the_river_coco_style_0012319a2c0129a857e709005496f2e4b1168943612.gif width="170"></td>
 </table >
 
 ## VideoControl
 ### Depth-control 
 <table class="center">
-  <td style="text-align:center;" width="170">"prompt"</td>
-  <td style="text-align:center;" width="170">"prompt"</td>
+  <td style="text-align:center;" width="170">"a lighted log cabin in heavy snow"</td>
+  <td style="text-align:center;" width="170">"a bear playing gitar"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
   <tr>
-  <td><img src=assets/videocontrol/depth/xx.gif width="170"></td>
-  <td><img src=assets/videocontrol/depth/xx.gif width="170"></td>
+  <td><img src=assets/videocontrol/depth/A_lighted_log_cabin_in_heavy_snow_coco_style_000ca777d92cf3a8f6ad7565804f71a5f65d652177a.gif width="170"></td>
+  <td><img src=assets/videocontrol/depth/A_bear_playing_gitar_coco_style_000a2bdf50c7ac869032c0cd41e7827503c34595d12.gif width="170"></td>
   <td><img src=assets/videocontrol/depth/xx.gif width="170"></td>
   <td><img src=assets/videocontrol/depth/xx.gif width="170"></td>
 </table >
