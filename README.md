@@ -55,12 +55,12 @@
   <td style="text-align:center;" width="170">"a camel walking under the sea"</td>
   <td style="text-align:center;" width="170">"a man standing on top of the mountain looking at a lake"</td>
   <td style="text-align:center;" width="170">"A panda playing a skateboard"</td>
-  <td style="text-align:center;" width="170">"prompt"</td>
+  <td style="text-align:center;" width="170">"a tiger drinking in the river"</td>
 <tr>
-  <td><img src=assets/lora/yourname/a_camel_walking_under_the_sea_MakotoShinkaiYourName_style_001db1e8aa467f7bd290a9f351c2330297e3f24352a.mp4.gif width="170"></td>
+  <td><img src=assets/lora/yourname/a_camel_walking_under_the_sea_MakotoShinkaiYourName_style_001db1e8aa467f7bd290a9f351c2330297e3f24352a.gif width="170"></td>
   <td><img src=assets/lora/yourname/a_man_standing_on_top_of_the_mountain_looking_at_a_lake__MakotoShinkaiYourName_style_0012a1489b6eb9a03c15ccb8521424c9cbbeaabbba4.gif width="170"></td>
   <td><img src=assets/lora/yourname/A_panda__playing_a_skateboard_MakotoShinkaiYourName_style_0000604bd34eec269301d359b189b1c4f3830d6ae61.gif width="170"></td>
-  <td><img src=assets/lora/yourname/xx.gif width="170"></td>
+  <td><img src=assets/lora/yourname/a_tiger_drinking_in_the_river_MakotoShinkaiYourName_style_0008363cc16665c834ea90f1b1757f27ec26bdaa320.gif width="170"></td>
 </table >
 
 ### Frozenmovie style 
@@ -75,13 +75,13 @@
   <td><img src=assets/lora/frozen/an_elephant_is_walking_under_the_sea_4K_high_definition_frozen_style.gif width="170"></td>
   <td><img src=assets/lora/frozen/A_panda_on_a_raft_in_the_river__frozenmovie_style_00039bdc8c6bd38a8a72c3050a23558cfe2aef08581.gif width="170"></td>
 <tr>
-  <td style="text-align:center;" width="170">"a tiger drinking in the river"</td>
-  <td style="text-align:center;" width="170">"a young boy standing in the rain"</td>
+  <td style="text-align:center;" width="170">"prompt"</td>
+  <td style="text-align:center;" width="170">"prompt"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
 <tr>
-  <td><img src=assets/lora/frozen/a_tiger_drinking_in_the_river_MakotoShinkaiYourName_style_0008363cc16665c834ea90f1b1757f27ec26bdaa320.gif width="170"></td>
-  <td><img src=assets/lora/frozen/a_young_boy_standing_in_the_rain_MakotoShinkaiYourName_style_00056e3b6a736010cf593c265fa36d6a9a6da0bc002.gif width="170"></td>
+  <td><img src=assets/lora/frozen/xx.gif width="170"></td>
+  <td><img src=assets/lora/frozen/xx.gif width="170"></td>
   <td><img src=assets/lora/frozen/xx.gif width="170"></td>
   <td><img src=assets/lora/frozen/xx.gif width="170"></td>
 </table >
