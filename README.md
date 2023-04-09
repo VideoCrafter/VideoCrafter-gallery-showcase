@@ -103,10 +103,10 @@
   <td style="text-align:center;" width="170">"prompt"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
   <tr>
-  <td><img src=assets/videocontrol/depth/A_lighted_log_cabin_in_heavy_snow_coco_style_000ca777d92cf3a8f6ad7565804f71a5f65d652177a.gif width="170"></td>
-  <td><img src=assets/videocontrol/depth/A_bear_playing_gitar_coco_style_000a2bdf50c7ac869032c0cd41e7827503c34595d12.gif width="170"></td>
-  <td><img src=assets/videocontrol/depth/xx.gif width="170"></td>
-  <td><img src=assets/videocontrol/depth/xx.gif width="170"></td>
+  <td><img src=assets/lora/coco/A_lighted_log_cabin_in_heavy_snow_coco_style_000ca777d92cf3a8f6ad7565804f71a5f65d652177a.gif width="170"></td>
+  <td><img src=assets/lora/cocoA_bear_playing_gitar_coco_style_000a2bdf50c7ac869032c0cd41e7827503c34595d12.gif width="170"></td>
+  <td><img src=assets/lora/coco/xx.gif width="170"></td>
+  <td><img src=assets/lora/coco/xx.gif width="170"></td>
 </table >
 
 ## VideoControl
