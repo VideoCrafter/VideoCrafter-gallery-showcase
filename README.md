@@ -76,13 +76,13 @@
   <td><img src=assets/lora/frozen/A_panda_on_a_raft_in_the_river__frozenmovie_style_00039bdc8c6bd38a8a72c3050a23558cfe2aef08581.gif width="170"></td>
 <tr>
   <td style="text-align:center;" width="170">"a bear playing gitar"</td>
-  <td style="text-align:center;" width="170">"prompt"</td>
-  <td style="text-align:center;" width="170">"prompt"</td>
+  <td style="text-align:center;" width="170">"a monkey rides a bicycle"</td>
+  <td style="text-align:center;" width="170">"a bear looking at the big moon"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
 <tr>
   <td><img src=assets/lora/frozen/A_bear_playing_gitar_frozenmovie_style_00101a8912d82929fb3cb4be06f285c048e59e3b681.gif width="170"></td>
-  <td><img src=assets/lora/frozen/xx.gif width="170"></td>
-  <td><img src=assets/lora/frozen/xx.gif width="170"></td>
+  <td><img src=assets/lora/frozen/A_monkey_rides_a_bicycle_frozenmovie_style_001c0baa63f9eb310a5c5e7aa827a055b567b68fe78.gif width="170"></td>
+  <td><img src=assets/lora/frozen/a_bear_looking_at_the_big_moon__frozenmovie_style_0014cef4eaf7f2e32651ed63cd3d720de7019c7d714.gif width="170"></td>
   <td><img src=assets/lora/frozen/xx.gif width="170"></td>
 </table >
 
@@ -100,13 +100,13 @@
   <tr>
   <td style="text-align:center;" width="170">"a lighted log cabin in heavy snow"</td>
   <td style="text-align:center;" width="170">"a bear playing gitar"</td>
-  <td style="text-align:center;" width="170">"prompt"</td>
-  <td style="text-align:center;" width="170">"prompt"</td>
+  <td style="text-align:center;" width="170">"a bear looking at the big moon"</td>
+  <td style="text-align:center;" width="170">"a horse looking at the big moon"</td>
   <tr>
   <td><img src=assets/lora/coco/A_lighted_log_cabin_in_heavy_snow_coco_style_000ca777d92cf3a8f6ad7565804f71a5f65d652177a.gif width="170"></td>
   <td><img src=assets/lora/coco/A_bear_playing_gitar_coco_style_000a2bdf50c7ac869032c0cd41e7827503c34595d12.gif width="170"></td>
-  <td><img src=assets/lora/coco/xx.gif width="170"></td>
-  <td><img src=assets/lora/coco/xx.gif width="170"></td>
+  <td><img src=assets/lora/coco/a_bear_looking_at_the_big_moon__coco_style_0018872f2f5c6fcdfb63684304dd7371dbb66f26097.gif width="170"></td>
+  <td><img src=assets/lora/coco/a_horse_looking_at_the_big_moon__coco_style_001e0502b1125de0c90fdb9f5a3ab2977be2934a561.gif width="170"></td>
 </table >
 
 ## VideoControl
