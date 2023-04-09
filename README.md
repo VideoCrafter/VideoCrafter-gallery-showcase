@@ -97,11 +97,7 @@
   <td><img src=assets/lora/coco/a_young_boy_standing_in_the_rain_coco_style_000b2d9f288e2a2ee76bb08acaac2a75771862bc4ba.gif width="170"></td>
   <td><img src=assets/lora/coco/A_bear_playing_gitar_coco_style_0012da67b3bfc13920a293c8faedcf1f38db1f6c4d5.gif width="170"></td>
   <td><img src=assets/lora/coco/a_tiger_drinking_in_the_river_coco_style_0012319a2c0129a857e709005496f2e4b1168943612.gif width="170"></td>
-</table >
-
-## VideoControl
-### Depth-control 
-<table class="center">
+  <tr>
   <td style="text-align:center;" width="170">"a lighted log cabin in heavy snow"</td>
   <td style="text-align:center;" width="170">"a bear playing gitar"</td>
   <td style="text-align:center;" width="170">"prompt"</td>
@@ -109,6 +105,20 @@
   <tr>
   <td><img src=assets/videocontrol/depth/A_lighted_log_cabin_in_heavy_snow_coco_style_000ca777d92cf3a8f6ad7565804f71a5f65d652177a.gif width="170"></td>
   <td><img src=assets/videocontrol/depth/A_bear_playing_gitar_coco_style_000a2bdf50c7ac869032c0cd41e7827503c34595d12.gif width="170"></td>
+  <td><img src=assets/videocontrol/depth/xx.gif width="170"></td>
+  <td><img src=assets/videocontrol/depth/xx.gif width="170"></td>
+</table >
+
+## VideoControl
+### Depth-control 
+<table class="center">
+  <td style="text-align:center;" width="170">"prompt"</td>
+  <td style="text-align:center;" width="170">"prompt"</td>
+  <td style="text-align:center;" width="170">"prompt"</td>
+  <td style="text-align:center;" width="170">"prompt"</td>
+  <tr>
+  <td><img src=assets/videocontrol/depth/xx.gif width="170"></td>
+  <td><img src=assets/videocontrol/depth/xx.gif width="170"></td>
   <td><img src=assets/videocontrol/depth/xx.gif width="170"></td>
   <td><img src=assets/videocontrol/depth/xx.gif width="170"></td>
 </table >
