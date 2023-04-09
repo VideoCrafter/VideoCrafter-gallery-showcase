@@ -16,7 +16,7 @@ def convert_mp4_folder_to_gif(video_dir, out_dir, savefps):
 
 if __name__ == "__main__":
     # video dir
-    video_dir = "./assets/lora/mp4_file/"
+    video_dir = "../../mp4/"
     out_dir = video_dir + "_GIF"
     savefps = 8
     
